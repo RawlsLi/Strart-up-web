@@ -1,0 +1,22 @@
+.banner{
+	
+	padding: 40px;
+	margin:0 auto;
+	text-align: center;
+	background-image: linear-gradient(225deg,rgba(167,27,125,0.5) 0%, rgba(48,243,230,0.4)20%,rgba(67,48,243,0.3)30%),url(../../images/ai.jpg);
+	background-size: cover;
+	background-position: center;
+	color:white;
+	background-repeat: no-repeat;
+}
+.banner h1{
+font-size: 30px;
+font-weight: bold;
+text-align: right;
+}
+.banner h2{
+	font-size: 15px;
+	opacity: 0.8
+	text-weight: lighter;
+	margin-bottom: 30px;
+}

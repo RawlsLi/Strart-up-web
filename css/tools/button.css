@@ -1,0 +1,19 @@
+.btn-violet{
+background-color: blueviolet;
+padding:15px 20px;
+border-radius: 4px;
+border-color: indigo;
+color: white;
+box-shadow: 5px 5px 20px violet;
+text-decoration: none;
+margin:40px auto;
+font-family: 'Noto Serif', serif;
+
+}
+a:hover{
+	background-color: blue;
+	color:yellow;
+	box-shadow: 5px 5px 20px skyblue;
+	font-weight: bold;
+	font-family: 'Noto Serif', serif;	
+}

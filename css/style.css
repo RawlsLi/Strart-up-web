@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap");
+@import url("tools/box.css");
+@import url("tools/avatar.css");
+@import url("tools/button.css");
+@import url("tools/banner.css");
+@import url("tools/card.css");
+body{
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin:0;
+	font-family: 'Playfair Display', serif;
+	font-size: :15px;
+	background-color: darkgrey;
+	margin: 0px;
+}
+h1,h3{
+	font-family: 'Playfair Display', sans-serif
+	font-size: 10px;
+	font-weight: bolder;
+}
+h2{
+	font-family: 'Playfair Display', sans-serif
+	font-size: 15px;
+	font-weight: bolder;
+}
+.sbox{
+	border:3px solid indigo;
+	border-radius: 20px;
+	text-align: center;
+	color: indigo;
+	padding: 40px 30px
+	background-color: skyblue;
+	background-opacity: 0.2;
+	width:500px;
+	height:140px;
+	margin-top:40px;
+	margin-bottom: 40px;
+	margin:40px auto;
+}
+.typeform-widget{
+	margin:0 auto;
+}
+.sbox2{
+	margin:20px auto;
+	color:white;
+	text-shadow: 3px 3px 20px blue;
+	text-align:center;
+	box-shadow: 5px 5px 30px blue;
+	border-radius:100px;
+	width: 200px;
+	height:200px;
+}
+.sbox3{
+	color:white;
+	font-weight: bolder;
+	font-size: 20px;
+	text-align: center;
+}
+.box h1{
+	font-size: 30px;
+}
